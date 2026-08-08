@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-0n5jd3.salamcuan.online/sitemap.xml
